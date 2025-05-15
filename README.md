@@ -1,6 +1,6 @@
 # password-generator-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple password generator made with Vue 3 with Vite. Use it to generate a customisable password or check strength of your existing password.
 
 ## Recommended IDE Setup
 
